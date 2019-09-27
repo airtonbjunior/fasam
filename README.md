@@ -4,6 +4,7 @@ Materiais utilizados nas aula do curso de Sistemas de Informação da faculdade 
 * Sistemas Operacionais (3º Período - 2019.2)
   * Slides da disciplina -  [[browser]](https://github.com/airtonbjunior/fasam/blob/master/SistemasOperacionais/SistemasOperacionais.pdf) [[download]](https://github.com/airtonbjunior/fasam/raw/master/SistemasOperacionais/SistemasOperacionais.pdf)
   * [Lista de Exercícios 1](https://github.com/airtonbjunior/fasam/blob/master/SistemasOperacionais/ListaExercicios1_SistemasOperacionais.pdf)
+  * [Lista de Exercícios 2](https://github.com/airtonbjunior/fasam/blob/master/SistemasOperacionais/ListaExercicios2_SistemasOperacionais.pdf)
 
 * Administração de Sistemas de Informação (6º Período - 2019.2)
   * Slides da disciplina - [[browser]](https://github.com/airtonbjunior/fasam/blob/master/AdmSistemasInformacao/AdmSistemasInformacao.pdf) [[download]](https://github.com/airtonbjunior/fasam/raw/master/AdmSistemasInformacao/AdmSistemasInformacao.pdf)
